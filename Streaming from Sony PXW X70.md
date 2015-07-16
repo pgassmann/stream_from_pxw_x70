@@ -1,4 +1,6 @@
 Streaming from Sony PXW-X70
+===========================
+Streaming from Sony PXW X70 with ffmpeg. Display, save and forward stream to Youtube
 
 Camera Settings
 ---------------
