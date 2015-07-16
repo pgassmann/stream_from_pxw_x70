@@ -38,3 +38,8 @@ Start PowerShell, navigate to the folder of the script and execute the script.
 
     cd .\Downloads
     .\stream_from_pxw_x70.ps1
+
+View Stream with VLC
+--------------------
+
+Open Network Stream _Ctrl+N_ and enter udp://:1234
