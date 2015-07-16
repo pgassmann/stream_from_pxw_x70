@@ -7,7 +7,8 @@ Camera Settings
 
 requires Firmware 2.0
 
-+ Configure your camera to connect to the same network as your Computer (Network-> Wi-Fi SET -> ...)
++ Configure your camera to connect to the same network as your Computer 
+  (Network > _Wi-Fi SET_)
 + Go to the Network -> _Streaming_ Menu
 + Configure the Preset, 
   + Set _SIZE_ to 1280x720
