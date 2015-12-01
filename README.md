@@ -43,3 +43,12 @@ View Stream with VLC
 --------------------
 
 Open Network Stream _Ctrl+N_ and enter udp://:1234
+
+
+Stream to Youtube using Open Broadcaster Software
+-------------------------------------------------
+
+Using a Graphical GUI Tool for Streaming from the PXW-X70 to Youtube. 
+
+Check the following tutorial on YouTube by a friend of mine:
+[How to livestream with Sony PXW X70 using OBS and YouTube (for free!)](https://www.youtube.com/watch?v=JgjS6b_IzE4)
